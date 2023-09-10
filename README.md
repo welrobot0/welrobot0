@@ -1,16 +1,17 @@
-### Hi there 👋
+# 👋 Welcome to welrobot0's GitHub!
 
-<!--
-**welrobot0/welrobot0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![visitors](https://visitor-badge.glitch.me/badge?page_id=welrobot0.visitor-badge)
 
-Here are some ideas to get you started:
+## 👨‍💻 Who Am I
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Data Scientist with extensive experience in SQL-based roles. Fascinated by data engineering and analytics, I've recently taken a keen interest in using various Firehose for data analysis.
+
+## 🛠 Skills
+
+- **Languages**: SQL, Python, R
+- **Data Science Libraries**: pandas, NumPy, scikit-learn
+- **Database Systems**: MySQL, PostgreSQL, SQL Server
+
+## 🎯 I’m currently focusing on...
+
+Expanding my expertise in real-time data analytics.
