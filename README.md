@@ -1,4 +1,4 @@
-# 👋 Welcome to welrobot0's GitHub!
+# Welcome to welrobot0's GitHub
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=welrobot0.visitor-badge)
 
